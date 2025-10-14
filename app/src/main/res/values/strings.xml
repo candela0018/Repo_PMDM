@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Practica_3</string>
     <string name="boto1">Continuar</string>
-    <string name="boton2">Cancelar</string>
+    <string name="boto2">Cancelar</string>
 </resources>
