@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="boto1">Continue</string>
+    <string name="boto2">Cancel</string>
+
+
+
+</resources>
