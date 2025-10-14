@@ -24,7 +24,7 @@
         android:layout_marginEnd="100dp"
         android:layout_marginBottom="140dp"
         android:text="@string/boto1"
-        app:backgroundTin="@color/boto1"
+        app:backgroundTint="@color/boto1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@id/button2" />
 
@@ -36,7 +36,7 @@
         android:layout_marginBottom="520dp"
         android:text="@string/boto2"
         android:visibility="visible"
-        app:backgroundTin="@color/boto2"
+        app:backgroundTint="@color/boto2"
         app:layout_constraintBottom_toBottomOf="@id/button"
         app:layout_constraintEnd_toEndOf="parent" />
 
